@@ -1,3 +1,7 @@
+# UniSync
+
+UniSync ® is a unified dashboard for managing multiple Software-as-a-Service (SaaS) subscriptions. This app addresses the growing problem of "subscription fatigue" and helps users manage their various subscriptions efficiently.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
